@@ -1,2 +1,2 @@
-# managment-panel
-managment system for many customers hotel, coffe shop etc.
+# management-panel
+management system for many customers hotel, coffe shop etc.
