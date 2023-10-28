@@ -9,7 +9,7 @@
           <div class="btn-group me-2">
             <button id="add_employee_modal_btn" type="button" class="btn btn-sm btn-outline-secondary">
             <span class="material-symbols-outlined">
-              add
+              Ekle
             </span>
             </button>
             <script>             
